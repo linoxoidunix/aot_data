@@ -1,4 +1,4 @@
 [default]
 path_to_python_lib = ""
 path_to_python_module = ""
-path_to_history_data = "/home/linoxoidunix/Programming/c++/cryptobot/aot_data/ohlcv_history/ohlcv.csv"
+path_to_history_data = "ohlcv.csv"
